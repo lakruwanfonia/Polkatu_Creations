@@ -1,0 +1,140 @@
+
+		 
+	<ul class="navbar">
+ 			<li class="navbaritem"><a class="navlink first" href="index.html">Home</a></li>
+  			<li class="navbaritem"><a class="navlink" href="#news">Equipment</a></li>
+ 			<li class="navbaritem"><a class="navlink" href="#contact">Videos</a></li>
+			<li class="navbaritem"><a class="navlink" href="#Download">Downloads</a></li>
+ 			<li class="navbaritem"><a class="navlink" href="#about">Community</a></li>
+		</ul>
+		
+				<section id="banner">
+					<img src="images/nfs1.jpg" class="hero" id="hero1" style="display: block;">
+					<img src="images/nfs2.jpg" class="hero" id="hero2" style="display: none;">
+					<img src="images/nfs3.jpg" class="hero" id="hero3" style="display: none;">
+					<div style="text-align:center; display: none">
+  						<span class="dot active"></span> 
+ 						<span class="dot"></span> 
+  						<span class="dot"></span> 
+					</div>
+					<div class="inner">
+						<header>
+						  <h1 data_temp_dwid="1" id="maint">Need For Speed</h1>
+						  <p id="desc">Changed Description to Game 1</p>
+						</header>
+						<a href="#main" class="more">Learn More</a>
+					</div>
+				</section> 
+		<br>
+		<center>
+				<button type="button" onclick="Game1()">Game 1</button>
+				<button type="button" onclick="Game2()">Game 2</button>
+				<button type="button" onclick="Game3()">Game 3</button>
+				<button type="button" onclick="Game4()">Game 4</button>
+		</center>
+
+			<!-- Main -->
+				<div id="main">
+					
+					<div class="inner">
+						
+
+					<!-- Boxes -->
+						<div class="thumbnails">
+							
+
+							<div class="box">
+								<a href="#11" class="image fit" id="watch1.0"><img id="img1" src="images/Game1thumb1.jpg" alt=""></a>
+								<div class="inner">
+									<h3 id="vidt1">Game 1 Video Title 1</h3>
+									<p id="vidd1">Game 1 Video Description 1</p>
+									<a href="#11" class="button fit" id="watch1.1">Watch</a>
+								</div>
+							</div>
+
+							<div class="box">
+								<a href="#12" class="image fit" id="watch2.0"><img id="img2" src="images/Game1thumb2.jpg" alt=""></a>
+								<div class="inner">
+									<h3 id="vidt2">Game 1 Video Title 2</h3>
+									<p id="vidd2">Game 1 Video Description 2</p>
+									<a href="#12" class="button fit" id="watch2.1">Watch</a>
+								</div>
+							</div>
+
+							<div class="box">
+								<a href="#13" class="image fit" id="watch3.0"><img id="img3" src="images/Game1thumb3.jpg" alt=""></a>
+								<div class="inner">
+									<h3 id="vidt3">Game 1 Video Title 3</h3>
+									<p id="vidd3">Game 1 Video Description 3</p>
+									<a href="#13" class="button fit" id="watch3.1">Watch</a>
+								</div>
+							</div>
+
+							<div class="box">
+								<a href="#14" class="image fit" id="watch4.0"><img id="img4" src="images/Game1thumb4.jpg" alt=""></a>
+								<div class="inner">
+									<h3 id="vidt4">Game 1 Video Title 4</h3>
+									<p id="vidd4">Game 1 Video Description 4</p>
+									<a href="#14" class="button fit" id="watch4.1">Watch</a>
+								</div>
+							</div>
+
+							<div class="box">
+								<a href="#15" class="image fit" id="watch5.0"><img id="img5" src="images/Game1thumb5.jpg" alt=""></a>
+								<div class="inner">
+									<h3 id="vidt5">Game 1 Video Title 5</h3>
+									<p id="vidd5">Game 1 Video Description 5</p>
+									<a href="#15" class="button fit" id="watch5.1">Watch</a>
+								</div>
+							</div>
+
+							<div class="box">
+								<a href="#16" class="image fit" id="watch6.0"><img id="img6" src="images/Game1thumb6.jpg" alt=""></a>
+								<div class="inner">
+									<h3 id="vidt6">Game 1 Video Title 6</h3>
+									<p id="vidd6">Game 1 Video Description 6</p>
+									<a href="#16" class="button fit" id="watch6.1">Watch</a>
+								</div>
+							</div>
+
+						</div>
+						<div class="downloadbox">
+							<center>
+							<h3 class="game_sector">- Game Sector -</h3>
+								<a class="download" href="#game1down" id="downloadlink">Download This Game</a>
+						</center>
+						</div>
+					</div>
+				</div>
+
+				<footer id="footer">
+					<div class="inner">
+						<h2>About <span class="game_sector">Game Sector</span></h2>
+						<p>Dissuade ecstatic and properly saw entirely sir why laughter endeavor. In on my jointure horrible margaret suitable he followed speedily. Indeed vanity excuse or mr lovers of on. By offer scale an stuff. Blush be sorry no sight. Sang lose of hour then he left find. </p>
+						<h4>Select Page</h4>
+
+						<div class="pagination">
+ 							<a href="#">«</a>
+  							<a class="active" href="#">1</a>
+  							<a href="#">2</a>
+  							<a href="#">»</a>
+						</div>
+						
+						<div>
+						<ul class="icons">
+							<br>
+							<li><a href="https://twitter.com" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="https://www.facebook.com/Polkatu-Creations-117451116836642/?modal=admin_todo_tour" class="social"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a><span class="label">Email</span></a></li>
+						</ul>
+						<p class="copyright">© Developed by <b class="game_sector">Polkatu Creations 🥥</b></p>
+						</div>
+					</div>
+					
+				</footer>
+		
+		<script src="js/video.js">
+		</script>
+		
+
